@@ -1,0 +1,4 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em
+1,admin,admin@uol.com,$2y$10$WgwonTAQ5wfTyJYumB9BfO6ukmPxPTQcBmKVdQX8x9pZ9oc5hEe9y,1,358055,"2024-07-02 14:31:05"
+2,outro,outro@uol.com,$2y$10$pm3zwG1sIUEOJ0tDvpdAKeBQUaXRPR4vXJ6nMUEAB7kPxcECB1MNS,1,,"2024-07-02 14:32:39"
+3,ana,ana@uol.com,$2y$10$XNKxpFd6pxihCH3YD0p8jOkSbBITqV05Z1M1BP7cQT1iPykk1EGL6,1,,"2024-07-04 16:47:06"
